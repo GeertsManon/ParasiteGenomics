@@ -22,6 +22,6 @@ This tutorial is designed to be completed in approximately 2 hours and 15 minute
 
 - Downstream Analyses (Exercises 4-5): 1 hour 30 minutes
 
-Chromosome copy number estimation
-Local copy number variation detection
-Data visualization and interpretation
+  - Chromosome copy number estimation
+  - Local copy number variation detection
+  - Data visualization and interpretation
