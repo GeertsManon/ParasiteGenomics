@@ -7,7 +7,7 @@ A [tutorial](https://github.com/GeertsManon/ParasiteGenomics/wiki) on how to det
 - Throughout the tutorial, highlighted terms link to additional information or definitions. Make sure to check these resources if you're unfamiliar with any concepts.
 - You'll find questions ❓ at the end of each section. These questions are designed to test your understanding of the concepts and analyses you've just performed. Take the time to think and answer these questions before moving on to the next section.
 - Questions marked with 💡 have hints available if you're stuck.
-- For a deeper understanding of the biological significance of copy number variations in Leishmania, refer to the [original publication](https://www.pnas.org/doi/full/10.1073/pnas.1920136117).
+- For a deeper understanding of the biological significance of copy number variations in _Leishmania_, refer to the [original publication](https://www.pnas.org/doi/full/10.1073/pnas.1920136117).
 
 ## Time Schedule
 
