@@ -15,9 +15,9 @@ This tutorial is designed to be completed in approximately 2 hours and 15 minute
 
 - Upstream Analyses (Exercises 1-3): 45 minutes
 
-  -- Setting up the environment
-  -- Exploring the reference genome and FASTQ files
-  -- Mapping reads to the reference
+  - Setting up the environment
+  - Exploring the reference genome and FASTQ files
+  - Mapping reads to the reference
 
 
 - Downstream Analyses (Exercises 4-5): 1 hour 30 minutes
