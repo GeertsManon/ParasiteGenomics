@@ -1,5 +1,5 @@
 # ParasiteGenomics
-A tutorial on how to detect CNV in genomic data of parasites
+A [tutorial](https://github.com/GeertsManon/ParasiteGenomics/wiki) on how to detect CNV in genomic data of parasites
 
 
 ## Important Notes
