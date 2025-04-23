@@ -15,11 +15,9 @@ A [tutorial](https://github.com/GeertsManon/ParasiteGenomics/wiki) on how to det
 
 This tutorial is designed to be completed in approximately 2 hours and 15 minutes:
 
-- [Set up your environment](https://github.com/GeertsManon/ParasiteGenomics/wiki/Introduction)
-
 - Upstream Analyses (Exercises 1-3): 45 minutes
 
-  - Setting up the environment
+  - [Setting up the environment](https://github.com/GeertsManon/ParasiteGenomics/wiki/Introduction)
   - [Exploring the reference genome](https://github.com/GeertsManon/ParasiteGenomics/wiki/Exercise-1:-Exploring-the-reference-genome)
   - [Exploring the FASTQ files](https://github.com/GeertsManon/ParasiteGenomics/wiki/Exercise-2:-Exploring-the-FASTQ-files)
   - [Mapping reads to the reference genome](https://github.com/GeertsManon/ParasiteGenomics/wiki/Exercise-3:-Mapping-reads-to-the-genome-using-BWA)
