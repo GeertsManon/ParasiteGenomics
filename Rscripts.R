@@ -107,7 +107,7 @@ plot_z <- function(x) {
   print(
     #ggplotly(
       ggplot(x, aes(x = Zscore)) + 
-        geom_histogram(aes(y = ..density..), binwidth = .2, fill = "lightblue", color = "black") + 
+        geom_histogram(aes(y = after_stat(density)), binwidth = .2, fill = "lightblue", color = "black") + 
         geom_density(color = "blue", size = 1) + 
         labs(x = "Z-score", y = "Density") +
         theme_bw() +
